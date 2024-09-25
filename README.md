@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kamrandastgeer49@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:red">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamran-dastgeer-95412727a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran-dastgeer-95412727a" height="30" width="40" /></a>
 </p>
