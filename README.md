@@ -1,4 +1,4 @@
-<img src="https://github.com/KamranDastgeer786/KamranDastgeer786/raw/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif" alt="" style="max-width: 100%;display: inline-block;border-radius: 15px;" data-target="animated-image.originalImage">
+<img src="https://github.com/KamranDastgeer786/KamranDastgeer786/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif" alt="" style ="boder-radius:15px;">
 
 
 
