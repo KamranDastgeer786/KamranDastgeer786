@@ -1,4 +1,4 @@
-![]logo]{https://github.com/KamranDastgeer786/KamranDastgeer786/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif}
+![logo]{https://github.com/KamranDastgeer786/KamranDastgeer786/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif}
 
 
 <h1 align="center">Hi 👋, I'm Kamran Dastgeer</h1>
