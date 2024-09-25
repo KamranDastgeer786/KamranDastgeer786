@@ -1,4 +1,5 @@
-<img src="https://github.com/KamranDastgeer786/KamranDastgeer786/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif" alt="" style="border-radius: 10px;">
+<img src="https://github.com/KamranDastgeer786/KamranDastgeer786/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif" alt="Banner" style="border-radius: 15px;">
+
 
 <h1 align="center">Hi 👋, I'm Kamran Dastgeer</h1>
 <h3 align="center">A passionate Laravel Full Stack developer from Pakistan</h3>
