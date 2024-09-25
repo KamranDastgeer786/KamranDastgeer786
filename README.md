@@ -1,4 +1,5 @@
-<img src="https://github.com/KamranDastgeer786/KamranDastgeer786/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif" alt="Banner" border-radius: 15px; width="100%" height="auto">
+<img src="https://github.com/KamranDastgeer786/KamranDastgeer786/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.gif" alt="Banner" style="border-radius: 15px;" width="100%" height="auto">
+
 
 
 <h1 align="center">Hi 👋, I'm Kamran Dastgeer</h1>
